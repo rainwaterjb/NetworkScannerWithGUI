@@ -1,0 +1,3 @@
+([('NetworkScannerWithGUI',
+   '/Users/jrainwater64876/PycharmProjects/PythonProject/ProjectFiles/dist/NetworkScannerWithGUI',
+   'EXECUTABLE')],)
