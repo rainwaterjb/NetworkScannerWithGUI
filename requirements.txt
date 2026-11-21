@@ -1,0 +1,7 @@
+# Runtime dependencies, pinned to versions with no known vulnerabilities (checked with pip-audit).
+# cryptography (used by scapy) >= 50.0.0 fixes CVE-2026-26007, CVE-2026-34073,
+# CVE-2026-69247/69248/69249 and the bundled-OpenSSL advisory present in 44.0.2.
+scapy==2.8.0
+cryptography==50.0.2
+cffi==2.1.1
+pycparser==3.12
