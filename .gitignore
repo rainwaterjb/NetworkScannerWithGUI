@@ -1,0 +1,12 @@
+# Build output (PyInstaller). Publish built apps as GitHub Release assets instead of committing them.
+dist/
+build/
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# OS / editors
+.DS_Store
